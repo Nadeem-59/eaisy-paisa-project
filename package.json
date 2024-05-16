@@ -1,0 +1,17 @@
+{
+  "name": "easypaisa-jazz",
+  "version": "1.0.0",
+  "description": "this is a simple way to deposite or transfer money to any one in easy way",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maha khalid",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  }
+}
